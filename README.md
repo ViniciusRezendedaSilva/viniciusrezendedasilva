@@ -1,4 +1,11 @@
-let canvaW = 400;
+function setup() {
+  createCanvas(400, 400);
+}
+
+function draw() {
+  background(51);
+  rect(200,200,10,10)
+}let canvaW = 400;
 let canvaH = 400;
 
 // controles da cobra
